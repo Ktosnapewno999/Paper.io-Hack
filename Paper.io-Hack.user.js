@@ -12,7 +12,7 @@
 // @match        *titotu.io/*
 // @match        *io-games.io/*
 // @match        *://paper-io.space
-// @match        *://paper.io
+// @match        *://paperio.site
 // @run-at document-idle
 // ==/UserScript==
 
